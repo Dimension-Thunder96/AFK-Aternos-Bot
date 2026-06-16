@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play-Gokuldham-Smp.aternos.me:47127",
+    "ip": "Play-Gokuldham-Smp.aternos.me",
     "port": 47127,
     "version": "",
     "try-creative": false
