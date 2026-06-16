@@ -8,7 +8,7 @@
   "server": {
     "ip": "Play-Gokuldham-Smp.aternos.me",
     "port": 47127,
-    "version": "",
+    "version": false,
     "try-creative": false
   },
   "position": {
